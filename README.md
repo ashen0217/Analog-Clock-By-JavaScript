@@ -2,6 +2,18 @@
 
 A simple and elegant analog clock implementation using HTML, CSS, and JavaScript. The clock features a clean design with hour, minute, and second hands that update in real-time.
 
+## Preview
+
+![Analog Clock Screenshot](screenshots/clock.png)
+
+The clock features a sleek dark theme with:
+
+- White numbers on a dark background
+- Red hour hand
+- Blue minute hand
+- White second hand
+- Subtle shadow effects for depth
+
 ## Project Structure
 
 The project consists of three main files:
